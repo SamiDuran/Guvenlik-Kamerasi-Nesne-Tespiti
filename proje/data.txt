@@ -1,0 +1,6 @@
+[
+    {
+        "name": "AnaKamera",
+        "ip": "rtsp://CAMERA_IP_PORT/streaming/channels/101"
+    }
+]

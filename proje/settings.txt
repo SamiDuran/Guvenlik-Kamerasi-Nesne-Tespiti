@@ -1,0 +1,9 @@
+[
+    {
+        "sender": "SENDER_MAIL_ADRESS",
+        "receiver": "RECEIVER_MAIL_ADRESS",
+        "sender_password": "PASSWORD",
+        "smtp_server": "SERVER_ADRESS",
+        "smtp_server_port": "SERVER_PORT"
+    }
+]
