@@ -311,7 +311,7 @@ class Ui_Dialog(object):
         msg = MIMEMultipart()
         msg['From'] = fromaddr
         msg['To'] = toaddr
-        msg['Subject'] = "Konveyor Güvenlik Kamerası Nesne Tespiti"
+        msg['Subject'] = "Your subject"
 
         # E-posta içeriği ekleme
         body = str(timeNow) +" tarihinde bir hareketilik algılandı. Algılanan nesneler ektedir."
